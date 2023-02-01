@@ -6,4 +6,5 @@ One of my favourite data projects!
 demographics, service subscriptions and reasons for churning etc. On top of this we were to explore several models that would best predict the probability of a 
 customer churning or not. 
 
-**Contents** - the first provided workbook 
+**Contents** - the first workbook labelled EDA contains how we approached the EDA task (exploratory descriptive analysis). Here you can see most of this project's
+visuals. The second workbook contains our modelling process in which we explored logistic regression, decision trees and random forest models.
